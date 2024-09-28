@@ -1,0 +1,8 @@
+class TestClass {
+    function testMethod() {
+        print("TestMethod called.");
+    }
+}
+
+print("Class defined.");
+
